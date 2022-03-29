@@ -6,7 +6,7 @@ Autor: Álvaro Rubén Rodríguez Jiménez
 
 <p><b>Descripción de la práctica</b></p>
 
-<p>La práctica consiste en un programa que simula un piano. Para hacer sonar el piano, se puede hacer uso del raton o de las teclas</p>
+<p>La práctica consiste en un programa que simula un piano. Para hacer sonar el piano, se puede hacer uso de las teclas</p>
 
 <br>
 
